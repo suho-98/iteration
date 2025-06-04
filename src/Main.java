@@ -2,7 +2,7 @@
 // 에디터 여백에 있는 <icon src="AllIcons.Actions.Execute"/> 아이콘을 클릭하세요.
 public class Main {
     public static void main(String[] args) {
-     for(int i = 1; i <=5;i++) {}
-        System.out.println("i");
-    }
-}
+
+     for(int i = 10;i>=1;i--) {
+         System.out.println(i); }
+        }}
